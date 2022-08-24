@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(152, 246, 246);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.titulo {
+    color: white;
+    background-color: black;
+    font-size: 110px;
+    margin-left: 16px;
+}
+
+.subtitulo {
+    color:black;
+    background-color: red;
+    font-size: 10vh;
+    margin-left: 16px;
+}
+
+.logo {
+    margin-left: 16px;
+}
